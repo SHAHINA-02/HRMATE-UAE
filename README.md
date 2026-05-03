@@ -14,6 +14,18 @@
 
 **FRONTEND:** https://hrmate-uae-frontend.vercel.app
 
+SCREENSHOTS
+<img width="1912" height="857" alt="Screenshot 2026-05-03 150304" src="https://github.com/user-attachments/assets/af02f04e-6184-4064-af1d-3323f37e3dcf" />
+<img width="1917" height="866" alt="Screenshot 2026-05-03 150316" src="https://github.com/user-attachments/assets/fd13bd7a-da1e-47f5-912d-5b698663e2ed" />
+<img width="1920" height="866" alt="Screenshot 2026-05-03 150327" src="https://github.com/user-attachments/assets/6da1cd18-811e-44ae-a3c4-47b7c9b95bf2" />
+<img width="1906" height="864" alt="Screenshot 2026-05-03 150346" src="https://github.com/user-attachments/assets/a3432063-4d17-4a83-abab-da04c96c392c" />
+<img width="1898" height="869" alt="Screenshot 2026-05-03 151209" src="https://github.com/user-attachments/assets/9b93264e-97b5-4f1a-8696-5d2ebef81149" />
+
+
+
+
+
+
 ---
 
 ## ABOUT
