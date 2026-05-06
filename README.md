@@ -137,7 +137,7 @@ PORT=3001
 
 **SHAHINA S** — Full Stack Developer & AI Engineer, UAE
 
-- Portfolio: shahina-portfolio.vercel.app
+- Portfolio: https://shahina-portfolio.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/shahina02
 - Email: shahinasofficial4140@gmail.com
 
